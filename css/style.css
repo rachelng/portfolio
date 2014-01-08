@@ -1,0 +1,26 @@
+body {
+	padding-top:50px;
+}
+
+.jumbotron {
+	background: url('/../images/jumbatron.jpg');
+	height:350px;
+}
+
+.jumbotron h1 {
+	color:#fff;
+	padding: 40px 0 5px 0;
+}
+
+.navbar {
+	margin-bottom:0px;
+}
+
+img {
+	width:200px;
+	height: 200px;
+}
+
+.thumbnail {
+	border:none;
+}
