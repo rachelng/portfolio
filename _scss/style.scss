@@ -1,0 +1,50 @@
+body {
+	padding-top:50px;
+	font-family: courier, sans-serif;
+}
+
+.jumbotron {
+/*	background: url('/../images/jumbatron.jpg');*/
+	background-color: #64d89d;
+	height:350px;
+	h1 {
+	color:#fff;
+	padding: 40px 0 5px 0;
+	font-weight: lighter;
+	}
+	p {
+		color:#fff;
+	}
+}
+
+.navbar {
+	background-color:#191919;
+}
+
+.navbar-brand {
+	font-weight: bolder;
+	color:#fff;
+}
+
+.carousel {
+	margin-bottom:50px;
+}
+
+.carousel-caption {
+	text-align:left;
+	bottom: 27%;
+}
+
+.thumbnail {
+	border:none;
+}
+
+footer {
+	background-color: #ddd;
+	height: 60px;
+	width: 100%;
+	p{
+		color: #666;
+		margin-top: 25px;
+	}
+}
